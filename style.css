@@ -1,0 +1,10 @@
+/* CSS主要設定網頁html的格式設定*/
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
